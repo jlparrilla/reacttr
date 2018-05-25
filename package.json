@@ -1,0 +1,19 @@
+{
+  "name": "reacttr",
+  "version": "1.0.0",
+  "description": "Clon de twitter con React para fines educativos",
+  "main": "/bluid/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlparrilla/reacttr.git"
+  },
+  "author": "Jose Luis Parrilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlparrilla/reacttr/issues"
+  },
+  "homepage": "https://github.com/jlparrilla/reacttr#readme"
+}
